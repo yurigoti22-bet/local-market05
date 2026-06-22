@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "desc": "Lagarto Dragão espinhoso",
+        "imagem": "../../public/a1.jpg",
+        "valor": 4000.00
+    },
+      {
+        "id": 2,
+        "desc": "Dragão de komodo",
+        "imagem": "../../public/dragao.webp",
+        "valor": 45000.00
+    },
+      {
+        "id": 3,
+        "desc": "Lagarto hornet ",
+        "imagem": "../../public/lagartoh.jpg",
+        "valor": 6200.00
+    }
+]
