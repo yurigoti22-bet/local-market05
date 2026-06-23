@@ -28,5 +28,6 @@
 }
 
 .btn-word:hover{
-    cursor: ;
+    cursor: pointer;
+    opacity: 0.6;
 }
